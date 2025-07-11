@@ -24,4 +24,4 @@ Showcased ability to design end-to-end data projects, derive actionable insights
 ---
 
 ### 💬 Questions?
-Feel free to connect on [LinkedIn](https://www.linkedin.com) or open an issue here!
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/keerthana-reddy-67b748232/) or open an issue here!
